@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724263333139",
+    "firebase_url": "https://flutter-schooldev.firebaseio.com",
+    "project_id": "flutter-schooldev",
+    "storage_bucket": "flutter-schooldev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724263333139:android:5b018e2d3666cabd013ee6",
+        "android_client_info": {
+          "package_name": "kmla.flutter_schooldev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724263333139-pvft3i282ri77a3htrinpbscdnrk5tf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXR1ZBpBu-UyX2MYac-ybQ6LRiyec3dDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724263333139-pvft3i282ri77a3htrinpbscdnrk5tf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
