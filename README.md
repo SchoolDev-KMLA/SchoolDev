@@ -1,9 +1,9 @@
-# flutter_schooldev
+# SchoolDev
 
 SchoolDev에 대한 설명
 
 ## 시작하기
-<details><summary>개발 환경 만들기</summary>
+<details><summary>개발 환경 구축하기</summary>
     <div>
         <p>
     		<li> <a href="_posts/2019-12-10-start-androidstudio.md"> Android Studio 설치</a></li>
