@@ -19,6 +19,7 @@ class generateState extends State<generate> {
 
   static String contenttitle= "";
   static String content = "";
+  static int timestamp;
 
   @override
   Widget build(BuildContext context) {
@@ -112,11 +113,12 @@ class generateState extends State<generate> {
     if (!form.validate()) {
       return;
     }
-
+    timestamp = new DateTime.now().millisecondsSinceEpoch;
     await databaseReference.collection(widget.posttitle)
         .add({
       'title': contenttitle,
       'content': content,
+      'timestamp' : timestamp
     });
     Navigator.popUntil(context, ModalRoute.withName('/'));
   }

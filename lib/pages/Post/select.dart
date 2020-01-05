@@ -57,7 +57,7 @@ class _ListPageState extends State<ListPage>{
   Future getPost() async {
     var firestore = Firestore.instance;
 
-    QuerySnapshot qn = await firestore.collection(widget.pagetitle).getDocuments();
+    QuerySnapshot qn = await firestore.collection(widget.pagetitle).orderBy('timestamp').getDocuments();
 
     return qn.documents;
   }
