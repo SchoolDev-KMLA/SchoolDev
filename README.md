@@ -24,6 +24,17 @@ SchoolDev는 중고들학생들이 직접 만들고 이용하는 교내 인트�
 		</p>
     </div>
 </details>
+<details><summary>기본적인 기능 구현하기</summary>
+    <div>
+        <p>
+            <li><a href="_posts/2019-12-10-start-androidstudio.md"> 로그인 기능 구현</a></li>
+            <li><a href="_posts/2019-12-10-start-androidstudio.md"> 이메일 인증 기능 구현</a></li>
+            <li><a href="_posts/2019-12-10-start-androidstudio.md"> 홈 화면 구현</a></li>
+                <li><a href="_posts/2019-12-10-start-androidstudio.md"> 비동기와 동기란?</a></li>
+            <li><a href="_posts/2019-12-10-start-androidstudio.md"> 급식 정보 제공 기능 구현</a></li>
+		</p>
+    </div>
+</details>
 
 ## 커스터마이즈
 
