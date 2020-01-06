@@ -116,16 +116,10 @@ class ShowSlidesState extends State<ShowSlides> {
   @override
   void initState() {
     super.initState();
-      meal = widget.meal;
-//    Firestore.instance
-//        .collection('meals')
-//        .document(day)
-//        .get()
-//        .then((DocumentSnapshot ds) async {
-//      // use ds as a snapshot
-//      meal = ds['meal'].toString();
-//    });
-
+    meal = widget.meal;
+    if(meal == null){
+      meal = '[] [] []';
+    }
     print(meal);
     meal = meal.replaceAll('\n', ' ');
 
@@ -140,9 +134,11 @@ class ShowSlidesState extends State<ShowSlides> {
       }
     }
 
-    morning = meal.substring(check[0]+4 , check[1]);
-    Lunch = meal.substring(check[1]+4, check[2]);
-    Dinner = meal.substring(check[2]+4);
+    if(cnt == 3){
+      morning = meal.substring(check[0]+4 , check[1]);
+      Lunch = meal.substring(check[1]+4, check[2]);
+      Dinner = meal.substring(check[2]+4);
+    }
 
     slides.add (
       new Slide (
