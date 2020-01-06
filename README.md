@@ -72,3 +72,6 @@ SchoolDev는 ㅎㅎㅎㅎ 교육 프로젝트입니다.
 김태준
 
 노건호
+
+## Downloads
+<a href="https://drive.google.com/open?id=1pvIsjNqCKxFoKmcIgiEdj_bIiLy2O_1S"> 2020-01-06 업데이트 </>
