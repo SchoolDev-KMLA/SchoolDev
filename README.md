@@ -47,7 +47,7 @@ SchoolDev는 전국의 학생 개발자들을 위한 중고교 교내 인트라�
                 <li><a href="_posts/2019-12-10-start-androidstudio.md"> 급식 정보 파싱</a></li>
             <li><a href="_posts/2019-12-10-start-androidstudio.md"> 프로필 구현</a></li>
             <li><a href="_posts/2019-12-10-start-androidstudio.md"> 커뮤니티 규정 구현</a></li>
-		</p>
+	</p>
     </div>
 </details>
 
@@ -71,9 +71,7 @@ SchoolDev는 전국의 학생 개발자들을 위한 중고교 교내 인트라�
 
 ## Credits
 
-김태준
-
-노건호
+김태준 노건호
 
 ## Downloads
 <a href="https://drive.google.com/open?id=1pvIsjNqCKxFoKmcIgiEdj_bIiLy2O_1S"> 2020-01-06 업데이트 </>
