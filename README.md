@@ -31,7 +31,7 @@ SchoolDev는 전국의 학생 개발자들을 위한 중고교 교내 인트라�
 <details><summary>기본적인 기능 구현하기</summary>
     <div>
         <p>
-            <li><a href="_posts/2019-12-10-start-androidstudio.md"> 로그인 구현</a></li>
+            <li><a href="posting/login.md"> 로그인 구현</a></li>
             <li><a href="_posts/2019-12-10-start-androidstudio.md"> 이메일 인증 구현</a></li>
             <li><a href="_posts/2019-12-10-start-androidstudio.md"> 홈 화면 구현</a></li>
                 <li><a href="_posts/2019-12-10-start-androidstudio.md"> 비동기와 동기란?</a></li>
@@ -50,6 +50,7 @@ SchoolDev는 전국의 학생 개발자들을 위한 중고교 교내 인트라�
 	</p>
     </div>
 </details>
+
 
 ## 커스터마이즈
 
