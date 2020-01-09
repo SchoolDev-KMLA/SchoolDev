@@ -1,10 +1,9 @@
-```yaml
 ---
 layout: default
 title: Start AndroidStudio
 description: Install AndroidStudio
 ---
-```
+
 
 # Login
 
@@ -54,7 +53,7 @@ description: Install AndroidStudio
 
 main.dart 부터 보겠습니다
 
-\```dart
+```dart
 
 import 'package:flutter/material.dart';
 
@@ -92,7 +91,7 @@ class MyApp extends StatelessWidget {
 
 }
 
-\```
+```
 
 main.dart의 코드 입니다
 
@@ -128,7 +127,7 @@ installing 으로 가보면
 
 이 과정을 하면 이제 우리는 firebase auth 를 import 해서 사용 할 수 있는 것 입니다
 
-\```dart
+```dart
 
 import 'dart:async';
 
@@ -218,7 +217,7 @@ class Auth implements BaseAuth {
 
 }
 
-\```
+```
 
 authentication.dart
 
