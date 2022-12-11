@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase": "^7.0.0",
     "node-school-kr": "^2.1.2"
   }
